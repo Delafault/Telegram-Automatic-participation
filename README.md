@@ -33,7 +33,7 @@
 
 ![image](https://github.com/Delafault/Telegram-Automatic-participation/assets/78411508/1d111902-10fd-4eac-a8d8-4a0e9085a98c)
 ---
-6. Done! Run the 'start.bat' file to start the script. Good luck!
+6. Done! Run the `start.bat` file to start the script. Good luck!
 ![image](https://github.com/Delafault/Telegram-Automatic-participation/assets/78411508/42e9505c-5e3a-46bd-b7db-d605776574e0)
 
 <div align="center">
