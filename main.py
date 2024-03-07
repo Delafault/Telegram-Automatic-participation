@@ -2,7 +2,7 @@
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError, PasswordHashInvalidError, UsernameInvalidError
 from telethon.tl.functions.channels import JoinChannelRequest
 from telethon.tl.functions.channels import LeaveChannelRequest
-from telethon import TelegramClient, events
+from telethon.sync import TelegramClient, events
 import datetime
 import asyncio
 import json
