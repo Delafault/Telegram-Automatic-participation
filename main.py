@@ -1,7 +1,6 @@
 # -Простой скрипт для автоматического участия в розыгрышах telegram premium
 from telethon.errors.rpcerrorlist import PhoneNumberBannedError, PasswordHashInvalidError, UsernameInvalidError
-from telethon.tl.functions.channels import JoinChannelRequest
-from telethon.tl.functions.channels import LeaveChannelRequest
+from telethon.tl.functions.channels import JoinChannelRequest, LeaveChannelRequest
 from telethon.sync import TelegramClient, events
 import datetime
 import asyncio
